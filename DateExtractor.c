@@ -14,6 +14,6 @@ int main()
     //Display 
     printf("Month : %02d\n", date);
     printf("Day   : %02d\n", day);
-    printf("Year  : %02d\n", year);
+    printf("Year  : %04d\n", year);
     return 0;
 }
